@@ -162,7 +162,7 @@ public class TwoThreeTree {
             System.out.println("Tree is empty");
             return;
         }
-        System.out.println("Horizontal 2-3 Tree (root on left):");
+        System.out.println("Horizontal 2-3 Tree:");
         printTreeHorizontal(root, "", true);
     }
 
